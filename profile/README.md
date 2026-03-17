@@ -88,4 +88,4 @@ documents are suitable for public sharing.
 
 This repository supports collaboration and discussion within the community of UK ESAPI developers.
 
-Discussion and announcements are coordinated via the JISCMAIL ESAPI mailing list.
+Discussion and announcements are coordinated via the JISCMAIL ESAPI mailing list (https://www.jiscmail.ac.uk/ESAPI).
