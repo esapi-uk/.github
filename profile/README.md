@@ -8,6 +8,12 @@ projects.
 
 ---
 
+## Access
+
+To gain access to the private repositories, please email russell.dawson2@nhs.net with your GitHub username.
+
+---
+
 ## Private Repositories
 
 The following repositories are part of the ESAPI UK organisation. They are **private** and only accessible to organisation members.
