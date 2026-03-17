@@ -1,11 +1,24 @@
 # UK ESAPI Community
 
-This GitHub organisation hosts documentation and example governance material
-shared by members of the UK ESAPI community.
+This GitHub organisation hosts documentation and example governance material shared by members of the UK ESAPI community.
 
 The aim is to help centres developing Eclipse Scripting (ESAPI) tools share
 approaches to documentation, testing, and governance of clinical scripting
 projects.
+
+---
+
+## Private Repositories
+
+The following repositories are part of the ESAPI UK organisation. They are **private** and only accessible to organisation members.
+
+| Repository | Description |
+|-----------|------------|
+| [workshop2026](https://github.com/esapi-uk/workshop2026) | Documents and materials from the ESAPI UK Workshop 2026 |
+| [shared_docs](https://github.com/esapi-uk/shared_docs) | Shared space for example documentation and reference material |
+
+> 🔒 These repositories are not publicly accessible.  
+> You must be a member of the ESAPI UK organisation to view their contents.
 
 ---
 
